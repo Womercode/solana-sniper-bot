@@ -1,6 +1,6 @@
 {
   "name": "solana-sniper-bot",
-  "author": "Filip Dundjer",
+  "author": "0xb0c4n",
   "scripts": {
     "buy": "ts-node buy.ts"
   },
